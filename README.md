@@ -1,0 +1,1 @@
+# QT-Core-intermediate-with_Cplus_plus
