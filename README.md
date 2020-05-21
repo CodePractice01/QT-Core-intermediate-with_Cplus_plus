@@ -3,7 +3,7 @@ Course work associated with the Udemy.com course "Qt Core Intermediate with C++"
 
 https://www.udemy.com/course/qt-core-intermediate/
 
-#Summary
+Summary
 
 
     Memory Management *
